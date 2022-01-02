@@ -11,13 +11,23 @@ _I cannot share the code now :(_
 - ISGverse
   - Information Theroy, Bayesian Optimisation
   - [app](https://isgverse.org) (sslab:123456ss)
-- COBRA
-  - Test Statistic (with mean and variance unknow), BO, GMM, matplotlib
+- COBRA: **an excellent TF targets hunter**
+  - Success: Test Statistic (with mean and variance unknow), BO, GMM, matplotlib
   - [Docs](http://cobrajf.readthedocs.io)
+  - Failed: Bayesian Model, AutoEncoder 
 - FROGS
+  - Linear Model 
 - IFNscape
-  - Deep Learning, Word2Vec
+  - Deep Learning, Word2Vec, GNN
 - ChIPseq-pipeline (Docker, bpipe, MACS2, MACS3)
+
+</details>
+
+<details markdown="2">
+  <summary>Teaching</summary>
+  
+- CRUK Bioinformatics Summer School 2021 (Docker): [school](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021/), [slides1](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021/Introduction/slides/L1-summerSchool.pdf), [slides2](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021/ChIPSeq/slides/EvaluatingChIPseqData.pdf)
+- CompBio MPhil RegulatoryGenomics Practical 2021 (Docker): [code](https://github.com/ss-lab-cancerunit/CompBio_MPhil_RegulatoryGenomics_Practical)
 
 </details>
 
