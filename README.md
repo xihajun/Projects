@@ -1,1 +1,26 @@
-# MLDSprojects
+# Project Pool
+_I cannot swim, but I survived the project pool_
+
+## Samarajiwa's Lab
+_I cannot share the code now :(_
+- ISGverse
+- COBRA
+- FROGS
+- IFNscape
+- ChIPseq-pipeline
+
+## Machine Learning & Data Science
+- **Machine Learning for Automated Vulnerability Detection in Source Code** (Inductive Logic Programming, code representation, AST, adjacency matrix,CNN, Word2Vec, Node2Vec, Graph2Vec): [code](https://github.com/dj311/uob-summer-project), [Literature Review & Proposal](https://drive.google.com/file/d/1-V5WlDSV37ibEYlLbbpglJ0E5KnWojHk/view?usp=sharing), [Slides Methods & Data](https://docs.google.com/presentation/d/1FNODBTFAwEWiJEiI4znGeu0H64BOFg_N/edit?usp=sharing&ouid=111119790381783443776&rtpof=true&sd=true), [Slides Overview](https://docs.google.com/presentation/d/1_pNo1vaU5wb1Hn49rrq8Qn3soBKf3c3h/edit?usp=sharing&ouid=111119790381783443776&rtpof=true&sd=true), [report]()
+- **Google Summer of Code - OWASP-Seraphimdroid** (SVM, LSTM, AutoEncoder): [code](https://github.com/xihajun/OWASP-Seraphimdroid), [report](https://docs.google.com/document/d/1WzNZed2Et8eRn7xLYvWI_Wb-FUqpKK88eBp7XNqt20I/edit), [paper](https://www.research.manchester.ac.uk/portal/files/159895029/1910.10660v1.pdf)
+- Coursework
+	- Abnormal Traffic Prediction: [code](), [report](https://drive.google.com/file/d/1F95pBroSd_HHI6o1iai1h2fhHCF2gln_/view?usp=sharing)
+	- Decision Trees and Unbalanced Data Sets - An Investigation: [code](https://github.com/dj311/data-science-toolbox-3), [report](https://drive.google.com/file/d/1GQEhy3d57Vz0uX-t9rxrvp-walCXj0bM/view?usp=sharing)
+	- Topic Modelling with Password: [code](https://github.com/xihajun/data-science-toolbox-kate-syd-jun), [report](https://drive.google.com/file/d/1zYensniVHABBIuV2AudHADzug5E8TMTP/view?usp=sharing)
+	- What is a Neural Network: [code](https://github.com/xihajun/Data-Science-Deep-learning-Sam-Jun), [report](https://drive.google.com/file/d/1gfzsOsl7ISKRwyrgA5CqoNZN0niC_R3H/view?usp=sharing)
+	- Machine Learning Gaussian Process: [report](https://drive.google.com/file/d/1AIbMpF3ds5FZYAwbPvbrdHk2mzgTWKlN/view?usp=sharing)
+	- Machine Learning Image: [report](https://drive.google.com/file/d/1N4WoRZyhkA2H9lb24HhhUYM2vSMtuaiz/view?usp=sharing)
+
+
+## Other
+- Complex Networks (**What a Small World**): [code](https://github.com/xihajun/Complexnets), [Slides](https://docs.google.com/presentation/d/1FUb7EH0h11YyfNRaWhvd1o2b47_njb1A/edit?usp=sharing&ouid=111119790381783443776&rtpof=true&sd=true)
+- Bitcoin & Blockchain + implementation: [code](https://github.com/xihajun/bitcoin), [Slides](https://docs.google.com/presentation/d/1Cb9l7nvtER74Uw5hbyzpB4uIkYYyuS5g/edit?usp=sharing&ouid=111119790381783443776&rtpof=true&sd=true)
