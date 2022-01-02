@@ -9,10 +9,15 @@ _I cannot swim, but I survived the project pool_
 _I cannot share the code now :(_
 
 - ISGverse
+  - Information Theroy, Bayesian Optimisation
+  - [app](https://isgverse.org) (sslab:123456ss)
 - COBRA
+  - Test Statistic (with mean and variance unknow), BO, GMM, matplotlib
+  - [Docs](http://cobrajf.readthedocs.io)
 - FROGS
 - IFNscape
-- ChIPseq-pipeline
+  - Deep Learning, Word2Vec
+- ChIPseq-pipeline (Docker, bpipe, MACS2, MACS3)
 
 </details>
 
