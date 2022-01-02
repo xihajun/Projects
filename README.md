@@ -47,7 +47,7 @@ _Some of them are naive, but they are the learning paths I have gone through XD_
 - **Google Summer of Code - OWASP-Seraphimdroid** (SVM, LSTM, AutoEncoder): [code](https://github.com/xihajun/OWASP-Seraphimdroid), [report](https://docs.google.com/document/d/1WzNZed2Et8eRn7xLYvWI_Wb-FUqpKK88eBp7XNqt20I/edit), [paper](https://www.research.manchester.ac.uk/portal/files/159895029/1910.10660v1.pdf)
 - **Coursework**
 	- Abnormal Traffic Prediction (KNN, KMeans, Random Forest): [code](https://github.com/samanthawise/dtsassignment2), [report](https://drive.google.com/file/d/1F95pBroSd_HHI6o1iai1h2fhHCF2gln_/view?usp=sharing)
-	- Decision Trees and Unbalanced Data Sets - An Investigation: [code](https://github.com/dj311/data-science-toolbox-3), [report](https://drive.google.com/file/d/1GQEhy3d57Vz0uX-t9rxrvp-walCXj0bM/view?usp=sharing)
+	- Decision Trees and Unbalanced Data Sets - An Investigation (SMOTE): [code](https://github.com/dj311/data-science-toolbox-3), [report](https://drive.google.com/file/d/1GQEhy3d57Vz0uX-t9rxrvp-walCXj0bM/view?usp=sharing)
 	- Topic Modelling with Password (topic model): [code](https://github.com/xihajun/data-science-toolbox-kate-syd-jun), [report](https://drive.google.com/file/d/1zYensniVHABBIuV2AudHADzug5E8TMTP/view?usp=sharing)
 	- What is a Neural Network (tensorboard): [code](https://github.com/xihajun/Data-Science-Deep-learning-Sam-Jun), [report](https://drive.google.com/file/d/1gfzsOsl7ISKRwyrgA5CqoNZN0niC_R3H/view?usp=sharing)
 	- Machine Learning Gaussian Process: [report](https://drive.google.com/file/d/1AIbMpF3ds5FZYAwbPvbrdHk2mzgTWKlN/view?usp=sharing)
