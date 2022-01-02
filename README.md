@@ -19,7 +19,7 @@ _I have a few animals, but cannot share the code at this moment:(_
   - [app](https://isgverse.org) (sslab:123456ss)
 - COBRA: **an excellent TF targets hunter**
   - [Docs - take cobra home](http://cobrajf.readthedocs.io)
-  - Success: Test Statistic (with mean and variance unknow), BO, GMM
+  - Success: DBSCAN, Test Statistic (with mean and variance unknow), BO, GMM
   - Failed: Bayesian Model, AutoEncoder, [FsNet](https://github.com/singh-ml/fsnet)
 - FROGS
   - Linear Model 
