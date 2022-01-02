@@ -27,6 +27,7 @@ _I have a few animals, but cannot share the code at this moment:(_
   - Deep Learning, Integer Programming, Word2Vec, GNN
 - ChIPseq-pipeline (Docker, bpipe, MACS2, MACS3)
 - Automation (GitHub Action)
+- R/Shiny: [template](https://github.com/xihajun/shiny-template)
 
 
 [1] **Junfan Huang**, Elsita Jungkurth et al, ISGverse: The Universe of IFN Regulated Genes identified by Integrative
