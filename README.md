@@ -13,7 +13,7 @@ _I cannot share the code now :(_
   - [app](https://isgverse.org) (sslab:123456ss)
 - COBRA: **an excellent TF targets hunter**
   - Success: Test Statistic (with mean and variance unknow), BO, GMM, matplotlib
-  - [Docs](http://cobrajf.readthedocs.io)
+  - [Docs - Do you want to have one](http://cobrajf.readthedocs.io)
   - Failed: Bayesian Model, AutoEncoder 
 - FROGS
   - Linear Model 
