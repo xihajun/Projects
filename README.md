@@ -29,12 +29,6 @@ _I have a few animals, but cannot share the code at this moment:(_
 - Automation (GitHub Action)
 - R/Shiny: [template](https://github.com/xihajun/shiny-template)
 
-
-[1] **Junfan Huang**, Elsita Jungkurth et al, ISGverse: The Universe of IFN Regulated Genes identified by Integrative
-Transcriptomics. 
-
-[2] **Junfan Huang**, Vivian KH Wong et al, COBRAtft: Combined Binding and Regulatory Analysis for identifying
-transcription factor direct target genes at scale.
 </details>
 
 <details markdown="2">
