@@ -2,7 +2,7 @@
 _I cannot swim, but I survived the project pool_
 
 ## Computer Vision
-- Footwear Marks Segmentation: [code](https://github.com/xihajun/footwear-project), [slides](https://github.com/xihajun/footwear-project/blob/master/Footwear%20Project.pdf), [App](https://github.com/xihajun/footwear-project)
+- Footwear Marks Segmentation: [code](https://github.com/xihajun/footwear-project), [slides](https://github.com/xihajun/footwear-project/blob/master/Footwear%20Project.pdf), [app](https://share.streamlit.io/xihajun/streamlit-footwear/main)
 - Counterfeit Image Detection Project (CNN + AutoEncoder - 97%)
 - Art vs History Image Style Transfer (Hackathon): [code](https://github.com/xihajun/Style-Transfer-Art), [demo](https://xihajun.github.io/Style-Transfer-Art/Demo/)
 
