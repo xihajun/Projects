@@ -12,10 +12,10 @@ _I cannot swim, but I survived the project pool_
 <details markdown="1">
   <summary>Projects</summary>
   
-_I cannot share the code now, but I have a few animals :(_
+_I have a few animals, but cannot share the code at this moment:(_
 
 - ISGverse
-  - Information Theroy, Bayesian Optimisation, list similarity
+  - Information Theroy, Bayesian Optimisation, List Similarity
   - [app](https://isgverse.org) (sslab:123456ss)
 - COBRA: **an excellent TF targets hunter**
   - [Docs - take cobra home](http://cobrajf.readthedocs.io)
@@ -26,7 +26,7 @@ _I cannot share the code now, but I have a few animals :(_
 - IFNscape
   - Deep Learning, Integer Programming, Word2Vec, GNN
 - ChIPseq-pipeline (Docker, bpipe, MACS2, MACS3)
-- Automation
+- Automation (GitHub Action)
 
 
 [1] **Junfan Huang**, Elsita Jungkurth et al, ISGverse: The Universe of IFN Regulated Genes identified by Integrative
