@@ -12,7 +12,7 @@ _I cannot swim, but I survived the project pool_
 <details markdown="1">
   <summary>Projects</summary>
   
-_I have a few animals, but cannot share the code at this moment:(_
+_I'd like to open source everything but sometimes I cannot :(_
 
 - ISGverse
   - Information Theroy, Bayesian Optimisation, List Similarity
