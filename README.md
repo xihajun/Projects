@@ -61,6 +61,6 @@ _Some of them are naive, but they are the learning paths I have gone through XD_
 - SVGmerge Template (automation): [code](https://github.com/ss-lab-cancerunit/SVGmerging)
 
 ## TODO
-- [ ] NestTimetable: [code]()
+- [x] NestTimetable: [code](https://github.com/xihajun/NestTimeManager)
 - [ ] Self-Driving Implementation
 - [ ] PyTorch Implementation (footwear marks project)
