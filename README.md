@@ -58,7 +58,7 @@ _Some of them are naive, but they are the learning paths I have gone through XD_
 - Complex Networks (**What a Small World**): [code](https://github.com/xihajun/Complexnets), [slides](https://docs.google.com/presentation/d/1FUb7EH0h11YyfNRaWhvd1o2b47_njb1A/edit?usp=sharing&ouid=111119790381783443776&rtpof=true&sd=true)
 - Bitcoin & Blockchain + implementation: [code](https://github.com/xihajun/bitcoin), [slides](https://docs.google.com/presentation/d/1Cb9l7nvtER74Uw5hbyzpB4uIkYYyuS5g/edit?usp=sharing&ouid=111119790381783443776&rtpof=true&sd=true)
 - Leetcode Typing: [code](https://github.com/xihajun/typecode), [demo](https://xihajun.github.io/typecode/)
-- SVGmerge: [code](https://github.com/ss-lab-cancerunit/SVGmerging)
+- SVGmerge Template (automation): [code](https://github.com/ss-lab-cancerunit/SVGmerging)
 
 ## TODO
 - [ ] NestTimetable: [code]()
