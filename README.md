@@ -6,8 +6,9 @@ _I cannot swim, but I survived the project pool_
 - Counterfeit Image Detection Project (CNN + AutoEncoder - 97%)
 - Art vs History Image Style Transfer (Hackathon): [code](https://github.com/xihajun/Style-Transfer-Art), [demo](https://xihajun.github.io/Style-Transfer-Art/Demo/)
 
-
-## Samarajiwa's Lab - [WebPage](https://www.samarajiwa-lab.org/people)
+## NLP Project
+- Type corretion using Transformer & reinforcement learning (working on)
+## Cambridge Univeristy Samarajiwa's Lab - [WebPage](https://www.samarajiwa-lab.org/people)
 
 <details markdown="1">
   <summary>Projects</summary>
