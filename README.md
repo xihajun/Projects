@@ -1,13 +1,17 @@
 # Project Pool
 _I cannot swim, but I survived the project pool_
 
+
+## NLP Project
+- Type corretion using Transformer & reinforcement learning (working on)
+- About the Data
+  - [Writing: Students are better than the teacher](https://extreme-yacht-07f.notion.site/Students-are-better-than-the-teacher-3d631ce17803439986338dedda2ed48e)
+
 ## Computer Vision
 - Footwear Marks Segmentation: [code](https://github.com/xihajun/footwear-project), [slides](https://github.com/xihajun/footwear-project/blob/master/Footwear%20Project.pdf), [app](https://share.streamlit.io/xihajun/streamlit-footwear/main)
 - Counterfeit Image Detection Project (CNN + AutoEncoder - 97%)
 - Art vs History Image Style Transfer (Hackathon): [code](https://github.com/xihajun/Style-Transfer-Art), [demo](https://xihajun.github.io/Style-Transfer-Art/Demo/)
 
-## NLP Project
-- Type corretion using Transformer & reinforcement learning (working on)
 ## Cambridge Univeristy Samarajiwa's Lab - [WebPage](https://www.samarajiwa-lab.org/people)
 
 <details markdown="1">
