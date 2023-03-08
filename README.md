@@ -7,6 +7,8 @@ _I cannot swim, but I survived the project pool_
   - http://angocair.garg.ed.ac.uk/
 - About the Data
   - [Writing: Students are better than the teacher](https://extreme-yacht-07f.notion.site/Students-are-better-than-the-teacher-3d631ce17803439986338dedda2ed48e)
+- [ ] LLM (finetune llama)
+- [ ] Prune_BERT
 
 ## Computer Vision
 - Footprints AutoCrop: [code](https://github.com/xihajun/footwear-project), [slides](https://github.com/xihajun/footwear-project/blob/master/Footwear%20Project.pdf), [app](https://share.streamlit.io/xihajun/streamlit-footwear/main)
